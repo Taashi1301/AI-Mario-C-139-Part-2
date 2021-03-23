@@ -1,0 +1,42 @@
+body{
+    background-image: url("background.jpg");
+    font-family: 'Akaya Kanadaka', cursive;
+}
+.heading{
+    width: 100%;
+    text-align: center;
+}
+h3{
+    display:inline;
+}
+.instruct{
+    float:right;
+    border: 1px solid red;
+    box-shadow: 2px 2px 2px lightblue;
+    font-size: 20px;
+}
+#mariopic{
+    width: 100%;
+    border: 5px solid blue;
+}
+#start, #status{
+    font-size: 22px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px gold;
+    border-radius: 10px;
+}
+#footer{
+    background-color: silver;
+    line-height: 1.5;
+    font-size: 22px;
+    border: 2px solid black;
+    margin:0px;
+}
+.modal-dialog{
+    width:95%;
+}
+.instructimgs{
+    width: 45%;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
